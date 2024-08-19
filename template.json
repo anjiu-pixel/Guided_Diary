@@ -1,0 +1,27 @@
+{
+  "name": "Guided_Diary",
+  "author": "anjiu-pixel",
+  "url": "https://github.com/sublimeclemency/Guided_Diary",
+  "version": "1.0.0",
+  "minAppVersion": "2.0.0",
+  "displayName": {
+    "default": "Guided_Diary"
+  },
+  "description": {
+    "default": "A Guided Diary"
+  },
+  "readme": {
+    "default": "README.md"
+  },
+  "funding": {
+    "openCollective": "",
+    "patreon": "",
+    "github": "",
+    "custom": [
+      "https://lastgenerationz.github.io"
+    ]
+  },
+  "keywords": [
+    "Guided Diary","daily"
+  ]
+}
